@@ -1,4 +1,4 @@
 1- Ajouter la premier ligne de code
-2- UNe deuxieme ligne de cod
+2- Une deuxieme ligne de cod
 -----------------------------------
-3-
+3- Une troisiéme ligne de code
